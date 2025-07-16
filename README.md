@@ -1,4 +1,4 @@
-# Kenai_Dipnetting
+# Kenai Dipnetting
 I'm predicting when I should go fishing (dipnetting) in Kenai, Alaska. It's real data in a real situation. Data science is providing me with actionable findings, not just another useless data science "project" you've seen a hundred times. The stakes are high: a year's worth of salmon in my freezer.
 
 Note that this isn't cleaned or commented as a professional work sample. Look at other repositories if you want that. Look here if you want to see:
