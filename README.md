@@ -5,3 +5,6 @@ Note that this isn't cleaned or commented as a professional work sample. Look at
 1. The date exact date I plan to go dipnetting based on predictive time series analysis using Prophet.
 2. Proof that peak salmon migration is slowly becoming later and later. This is speculated to be caused by climate change. Also, some models are worthless here. Simple regression proves to be the best demonstration of these trends (though I admittedly didn't spend time tuning hyperparameters, which I'll save that for when you give me a job). I would be curious to see how Prophet (used elsewhere in the file) predicts this changing. Maybe I'll do that when I get back from fishing.
 3. Salmon migration data from 1979 through 2025.
+
+Here's the quick summary, which shows 2025 data available as of 7/16/2025.
+<img width="1326" height="580" alt="image" src="https://github.com/user-attachments/assets/4fa4a44d-f46b-4cee-8155-822f1b56c862" />
