@@ -19,4 +19,6 @@ Or, if you want to see a more interesting version.
 Source data is publicly available [here](https://www.adfg.alaska.gov/sf/FishCounts/index.cfm?ADFG=main.displayResults&COUNTLOCATIONID=40&SpeciesID=420) from the Alaska Department of Fish and Game. 
 
 
-Fish are going home later and later each year. 
+Fish are returning to their spawning grounds and later each year. 
+<img width="989" height="590" alt="image" src="https://github.com/user-attachments/assets/0b02f501-4bc0-4c7f-ba68-a86ae29c1935" />
+
